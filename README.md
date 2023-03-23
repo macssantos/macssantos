@@ -6,7 +6,7 @@
 💡 Atualmente utilizo Python, SQL e ferramentas Azure para ETL de Dados.  
 💡 Durante o tempo em que fui estagiária trabalhei com Banco de Dados, programação em .NET/C# e KANBAN.
 
-📚 Realizei alguns projetos na universidade envolvendo Engenharia de Requisitos e linguagens como C, Java e Kotlin.
+📚 Realizei alguns projetos na universidade envolvendo Engenharia de Requisitos e linguagens como C, Java, Kotlin e JavaScript.
 
 🔥 Também estou estudando sobre assuntos como Processamento e Ciência de Dados, incluindo tópicos como otimização de processamento e estatística.
 
