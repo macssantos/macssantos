@@ -6,11 +6,11 @@
 💡 Atualmente utilizo Python, SQL e ferramentas Azure para ETL de Dados.  
 💡 Durante o tempo em que fui estagiária trabalhei com Banco de Dados, programação em .NET/C# e KANBAN.
 
-📚 Realizei alguns projetos na universidade envolvendo Engenharia de Requisitos e linguagens como C, Java, Kotlin e JavaScript.
+📚 Realizei alguns projetos na universidade envolvendo Engenharia de Requisitos e linguagens como C, Java e JavaScript.
 
 🔥 Também estou estudando sobre assuntos como Processamento e Ciência de Dados, incluindo tópicos como otimização de processamento e estatística.
 
-🌌 Outras paixões que carrego são música e literatura. Sou musicista em aprendizado contínuo e gosto muito de ler.
+🌌 Outras paixões que carrego são música e literatura. Sou musicista e gosto muito de ler.
 
 <h4 align="center"> Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
