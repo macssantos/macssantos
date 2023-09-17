@@ -8,7 +8,7 @@
 
 📚 Realizei alguns projetos na universidade envolvendo Engenharia de Requisitos e linguagens como C, Java e JavaScript.
 
-🔥 Também estou estudando sobre assuntos como Processamento e Ciência de Dados, incluindo tópicos como otimização de processamento e estatística.
+🔥 Também estou estudando sobre assuntos como Ciência de Dados e estatística.
 
 🌌 Outras paixões que carrego são música e literatura. Sou musicista e gosto muito de ler.
 
