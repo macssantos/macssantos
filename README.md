@@ -10,7 +10,7 @@
 
 🔥 Também estou estudando sobre assuntos como Ciência de Dados e estatística.
 
-🌌 Outras paixões que carrego são música e literatura. Sou musicista e gosto muito de ler.
+🌌 Outras paixões que carrego são música e literatura. Sou musicista e escritora.
 
 <h4 align="center"> Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
