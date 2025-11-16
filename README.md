@@ -1,7 +1,7 @@
 
 <h2 align="center"> " A melhor maneira de prever o futuro é inventá-lo " </h2>
 
-<h4> Sou a Maria, estudante de Engenharia de Software e Junior Data Engineer. </h4>
+<h4> Sou a Maria, Data Engineer. </h4>
 
 💡 Atualmente utilizo Python, SQL e ferramentas Azure para ETL de Dados.  
 💡 Durante o tempo em que fui estagiária trabalhei com Banco de Dados, programação em .NET/C# e KANBAN.
